@@ -30,7 +30,7 @@ Project correspondence also documents:
 - continued assignment of increasingly difficult records
 - explicit trust in independent location judgment
 
-![Weekly documented GEARS record actions](charts/weekly-production.png)
+![Weekly documented GEARS record actions](charts/weekly-production.svg)
 
 ## Nature of the Work
 
